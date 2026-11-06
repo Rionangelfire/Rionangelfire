@@ -6,7 +6,9 @@ I'm a keeper and a seeker: I preserve what matters, write it down, and dig for t
 
 ## What I'm building
 
+- **📁 [Cybersecurity Portfolio](https://github.com/Rionangelfire/cybersecurity-portfolio)** — the one-page summary of my SOC work: Aegis Shield, Packet Analyzer, Echp, and Codex of Echoes.
 - **🛡️ [Aegis Shield](https://github.com/Rionangelfire/aegis-shield)** — a single-file mobile IOC / SOC simulator. Baseline, Thunderstorm, and Ransomware modes, threshold tuning, and MITRE mapping (T1498, T1486) — synthetic data only, containment labeled SIMULATED.
+- **🔍 [Echp](https://github.com/Rionangelfire/echp)** — Nova Echo AI simulator and IOC monitor: Gemini-powered tactical interface and a UDP syslog threat monitor.
 - **📖 [Codex of Echoes](https://github.com/Rionangelfire/codex-of-echoes)** — a tamper-evident narrative archive and worldbuilding framework. Python + SQLite + JSON, with build and verify scripts.
 - **🎮 [Fisherman's Horizon](https://github.com/Rionangelfire/fishermans-horizon)** — a text-heavy RPG with spider-web branching, battle sequences, and a shop. Open `index.html` and play.
 - **⚔️ [FF3-Style FF8 RPG](https://github.com/Rionangelfire/ff3-style-ff8-rpg)** — a Final Fantasy VIII-inspired RPG rendered in classic FFIII style.
