@@ -7,7 +7,9 @@ I'm a keeper and a seeker: I preserve what matters, write it down, and dig for t
 ## What I'm building
 
 - **📁 [Cybersecurity Portfolio](https://github.com/Rionangelfire/cybersecurity-portfolio)** — the one-page summary of my SOC work: Aegis Shield, Packet Analyzer, Echp, and Codex of Echoes.
-- **🛡️ [Aegis Shield](https://github.com/Rionangelfire/aegis-shield)** — a single-file mobile IOC / SOC simulator. Baseline, Thunderstorm, and Ransomware modes, threshold tuning, and MITRE mapping (T1498, T1486) — synthetic data only, containment labeled SIMULATED.
+- **🛡️ [Aegis Shield](https://github.com/Rionangelfire/aegis-shield)** — a SOC simulation platform (Python telemetry engine v2.3 + browser console + Packet Analyzer v1.5). Baseline, Thunderstorm, and Ransomware modes, threshold tuning, and MITRE mapping (T1498, T1486) — synthetic data only, containment labeled SIMULATED.
+- 🔍 [DEX Workspace](https://github.com/Rionangelfire/dex-workspace) — single-file browser workspace for penetration-testing practice: host-centric tracking, nmap scan parser with prioritized recommendations, command library, markdown reports, optional Gemini copilot. Vanilla JS, offline-first. Release v1.0.0 (MIT).
+- 🟢 [Worm Dex](https://github.com/Rionangelfire/worm-dex) — single-file incident-response Pokédex: five IR steps with real Linux/PowerShell commands plus seven lab entries, click-to-copy, rotating daily tips. Vanilla JS, offline-first. Release v1.0.0 (MIT).
 - **🔍 [Echp](https://github.com/Rionangelfire/echp)** — Nova Echo AI simulator and IOC monitor: Gemini-powered tactical interface and a UDP syslog threat monitor.
 - **📖 [Codex of Echoes](https://github.com/Rionangelfire/codex-of-echoes)** — a tamper-evident narrative archive and worldbuilding framework. Python + SQLite + JSON, with build and verify scripts.
 - **🎮 [Fisherman's Horizon](https://github.com/Rionangelfire/fishermans-horizon)** — a text-heavy RPG with spider-web branching, battle sequences, and a shop. Open `index.html` and play.
