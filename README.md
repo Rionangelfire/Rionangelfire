@@ -11,6 +11,7 @@ I'm a keeper and a seeker: I preserve what matters, write it down, and dig for t
 - 🔍 [DEX Workspace](https://github.com/Rionangelfire/dex-workspace) — single-file browser workspace for penetration-testing practice: host-centric tracking, nmap scan parser with prioritized recommendations, command library, markdown reports, optional Gemini copilot. Vanilla JS, offline-first. Release v1.0.0 (MIT).
 - 🟢 [Worm Dex](https://github.com/Rionangelfire/worm-dex) — single-file incident-response Pokédex: five IR steps with real Linux/PowerShell commands plus seven lab entries, click-to-copy, rotating daily tips. Vanilla JS, offline-first. Release v1.0.0 (MIT).
 - 🌋 [GeoShield ICS](https://github.com/Rionangelfire/geoshield-ics) — single-file geothermal OT cybersecurity training simulator: five MITRE ATT&CK for ICS attack scenarios with a live digital twin, SOC feed, Purdue Model traversal, and fifteen role-based incident response drills. Vanilla JS, Tailwind via CDN. Release v1.0.0 (MIT).
+- 🔎 [**Enumeration Suite**](https://github.com/Rionangelfire/enumeration-suite) — defensive SOC blue-team learning platform (prototype v0.9): asset inventory, host enumeration, network baselines, AD review, cloud checks, risk calculator, remediation board. Sample/demo data only, fully self-contained single file, no backend. Release v1.0.0 (MIT).
 - **🔍 [Echp](https://github.com/Rionangelfire/echp)** — Nova Echo AI simulator and IOC monitor: Gemini-powered tactical interface and a UDP syslog threat monitor.
 - **📖 [Codex of Echoes](https://github.com/Rionangelfire/codex-of-echoes)** — a tamper-evident narrative archive and worldbuilding framework. Python + SQLite + JSON, with build and verify scripts.
 - **🎮 [Fisherman's Horizon](https://github.com/Rionangelfire/fishermans-horizon)** — a text-heavy RPG with spider-web branching, battle sequences, and a shop. Open `index.html` and play.
@@ -18,7 +19,6 @@ I'm a keeper and a seeker: I preserve what matters, write it down, and dig for t
 - **🌌 [ECHO-Δ: The Sideways Esthar](https://github.com/Rionangelfire/echo-delta-sideways-esthar)** — a Final Fantasy VIII-universe RPG.
 
 ## Languages & tools
-
 Python · C++ · JavaScript · HTML/CSS · SQL · JSON
 
 ## Where I'm headed
